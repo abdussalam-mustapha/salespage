@@ -746,3 +746,11 @@ iframe{
     height: 100px;
 }
 }
+@media(max-width: 360px;){
+    body{
+        margin: auto;
+    }
+    h1{
+        text-align: center;
+    }
+}
