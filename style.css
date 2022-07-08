@@ -13,7 +13,7 @@ body{
 }
 
 .header{
-    background: url(/img/Funnels.jpg);
+    background: url(img/Funnels.jpg);
     height: 1300px;
     background-size: cover;
 }
